@@ -1,0 +1,11 @@
+# ignore the 'Lab2/images/' folder
+Lab2/images/
+
+# ignore the huge vectorized csv
+Lab2/male_PA_vectorized.csv
+
+# ignore all .cxv?
+Lab2/*.csv
+
+# ignore ipynb_checkpints
+I/.ipynb_checkpoints/
