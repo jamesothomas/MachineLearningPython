@@ -8,4 +8,4 @@ Lab2/male_PA_vectorized.csv
 Lab2/*.csv
 
 # ignore ipynb_checkpints
-I/.ipynb_checkpoints/
+.ipynb_checkpoints/
