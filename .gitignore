@@ -9,3 +9,6 @@ Lab2/*.csv
 
 # ignore ipynb_checkpints
 .ipynb_checkpoints/
+
+# ignore the images form lab6
+Lab6/sample/
